@@ -3,16 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Sergijua06.github.io/parcel-project-template",
+  "homepage": "https://Sergijua06.github.io/barbershop_v3",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html",
-    "predeploy": "npm run build -- --public-url=/parcel-project-template/",
+    "predeploy": "npm run build -- --public-url=/barbershop_v3/",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sergijua06/parcel-project-template"
+    "url": "git+https://github.com/Sergijua06/barbershop_v3"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
